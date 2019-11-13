@@ -2,6 +2,8 @@
 
 ## Recommended Books
 
+	- [Crash Course Coding Companion](https://ucbd43bb232cffabee0a4567eba4.previews.dropboxusercontent.com/p/pdf/AAkywEParbod9WXhPVQVsPp3MVTKs3Mnfblb2iYV8g53Yc6bnuOTABJufktgQXz82W-_oe51wDVzBJgrbzv9QWkt4pAxRxk4OtNSh3muUGK-8GFpVhGS-ir1s1fTN75fSFOl-EocLlBOnxHKSiIA2sbBGiHv9pjC9mtakNuXyMBHViXHS6lzYSYMMtVyb8QWHvMgQbppHPnsEZ55r4jpnGMpmJLQh34mu_06d8bujS5Mr0bCb35nbQCAQxBbSLPvUbSlusOs-x3SwDrd7YNWc_WD9N9prxXDTbnHO707dU8ZaCEZUdDm527etJVJsLoyLgyNEt9jHD14rImDep5BMEItmMRHlqnCV4ffv5aRe8WU0QqHadxlh14ki301JmCBsa0f3wy6hj8LSgAKXBbkOcUs/p.pdf)
+
 
 ## Paradigms:
 
