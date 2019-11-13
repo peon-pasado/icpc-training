@@ -43,3 +43,7 @@
 
 		- [Greedy Methodology](https://www.cse.wustl.edu/~sg/CSE441_FL04/greedy-methodology.pdf)
 
+
+## Courses
+
+- [Competition Programming and Problem Solving](https://contest.cs.cmu.edu/295/f17/)
