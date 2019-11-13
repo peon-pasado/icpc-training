@@ -12,6 +12,8 @@
 		- [standford / Greedy Algorithms Part One](https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/lectures/13/Small13.pdf)
 
 		- [standford / Greedy Algorithms Part Two](http://web.stanford.edu/class/archive/cs/cs161/cs161.1138/lectures/14/Small14.pdf)
+		
+		- [algorithms live / exchange arguments](https://www.youtube.com/watch?v=Oq1seKJvfQU)
 
 		- [Arabic Competitive Programming / Greedy Algorithm](https://www.youtube.com/watch?v=iXxP_liQklk&list=PLPt2dINI2MIbJYBTHmRuZuGLIP5PnkzMH&index=1)
 	
