@@ -169,25 +169,25 @@
 
 ## contest
 
-	- [brute force](https://vjudge.net/contest/318458#rank)
-	- [simulation](https://vjudge.net/contest/49857#overview)
-	- [bfs and dfs](https://vjudge.net/contest/309228)
-	- [number theory](https://vjudge.net/contest/306309)
-	- [dynamic programming 2](https://vjudge.net/contest/303996)
-	- [fenwick tree + sweep line](https://vjudge.net/contest/338358#rank)
-	- [topological sort + dsu](https://vjudge.net/contest/324937)
-	- [repaso](https://vjudge.net/contest/335236)
-	- [chinese contest](https://vjudge.net/contest/324938)
+- [brute force](https://vjudge.net/contest/318458#rank)
+- [simulation](https://vjudge.net/contest/49857#overview)
+- [bfs and dfs](https://vjudge.net/contest/309228)
+- [number theory](https://vjudge.net/contest/306309)
+- [dynamic programming 2](https://vjudge.net/contest/303996)
+- [fenwick tree + sweep line](https://vjudge.net/contest/338358#rank)
+- [topological sort + dsu](https://vjudge.net/contest/324937)
+- [repaso](https://vjudge.net/contest/335236)
+- [chinese contest](https://vjudge.net/contest/324938)
 	
 
 ## Popurri
 
-	- [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054)
-	- [topcoder tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
-	- [csie](http://www.csie.ntnu.edu.tw/~u91029/)
-	- [morass / problem topics](https://codeforces.com/blog/-Morass-)
-	- [manacher hard problem](https://szkopul.edu.pl/problemset/problem/ETArorvqQVqRUJRa4kx02f8D/site/?key=statement)
-	- [cses](https://cses.fi/problemset/)
+- [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054)
+- [topcoder tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
+- [csie](http://www.csie.ntnu.edu.tw/~u91029/)
+- [morass / problem topics](https://codeforces.com/blog/-Morass-)
+- [manacher hard problem](https://szkopul.edu.pl/problemset/problem/ETArorvqQVqRUJRa4kx02f8D/site/?key=statement)
+- [cses](https://cses.fi/problemset/)
 	
 	
 ## Courses
